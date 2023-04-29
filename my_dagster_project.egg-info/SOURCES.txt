@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+gdriveviz/__init__.py
+gdriveviz/assets.py
+gdriveviz_tests/__init__.py
+gdriveviz_tests/test_assets.py
+my_dagster_project.egg-info/PKG-INFO
+my_dagster_project.egg-info/SOURCES.txt
+my_dagster_project.egg-info/dependency_links.txt
+my_dagster_project.egg-info/requires.txt
+my_dagster_project.egg-info/top_level.txt
